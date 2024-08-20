@@ -1,15 +1,15 @@
-# Shared task on Devanagari Language Understanding at  [CHIPSAL@COLING 2025](https://sites.google.com/view/chipsal/home) #
+# Shared task on Natural Language Understanding of Devanagari Script Languages at  [CHIPSAL@COLING 2025](https://sites.google.com/view/chipsal/home) #
 
-The "Shared Task on Devanagari Language Understanding" at CHIPSAL@COLING 2025 focuses on addressing key challenges in processing Devanagari-scripted languages. In multilingual contexts, accurate language identification is critical, making the first subtask, Devanagari Language Identification, essential for identifying whether a given text is in Devanagari script. Hate speech detection is another significant aspect of understanding social dynamics, especially within online spaces. Subtask B, Hate Speech Detection, aims to determine whether a given text contains hate speech, with annotated datasets marking the presence or absence of such content. Building on this, Subtask C, Targets of Hate Speech Identification, focuses on identifying specific targets of hate speech, such as individuals, organizations, or communities. This shared task facilitates comprehensive Devanagari language understanding, targeting key challenges in script identification, hate speech detection, and the identification of hate speech targets. 
+The "Shared task on Natural Language Understanding of Devanagari Script Languages" at CHIPSAL@COLING 2025 focuses on addressing key challenges in processing Devanagari-scripted languages. In multilingual contexts, accurate language identification is critical, making the first subtask, Devanagari Script Language Identification, essential for identifying whether a given text is in Devanagari script. Hate speech detection is another significant aspect of understanding social dynamics, especially within online spaces. Subtask B, Hate Speech Detection, aims to determine whether a given text contains hate speech, with annotated datasets marking the presence or absence of such content. Building on this, Subtask C, Targets of Hate Speech Identification, focuses on identifying specific targets of hate speech, such as individuals, organizations, or communities. This shared task facilitates comprehensive Devanagari Script Language understanding, targeting key challenges in script identification, hate speech detection, and the identification of hate speech targets. 
 
 ## Sub-task A ##
-<b> Devanagari Language Identification:</b> Given a sentence in Devanagari script, the goal is to determine the language it belongs to among Nepali, Marathi, Sanskrit, Bhojpuri, and Hindi. This task addresses the critical need for accurate language identification in multilingual contexts.
+<b> Devanagari Script Language Identification:</b> Given a sentence in Devanagari script, the goal is to determine the language it belongs to among Nepali, Marathi, Sanskrit, Bhojpuri, and Hindi. This task addresses the critical need for accurate language identification in multilingual contexts.
 
 ## Sub-task B ##
-<b> Hate Speech Detection in Devanagari Language:</b> Given a text, the goal of this task is to identify whether it contains hate speech or not. The text dataset for this subtask will have binary annotations for the prevalence of hate speech.
+<b> Hate Speech Detection in Devanagari Script Language:</b> Given a text, the goal of this task is to identify whether it contains hate speech or not. The text dataset for this subtask will have binary annotations for the prevalence of hate speech.
 
 ## Sub-task C ##
-<b> Target Identification for Hate Speech in Devanagari Language:</b> The goal of this subtask is to identify the targets of hate speech in a given hateful text. The text is annotated for "individual", "organization", and "community" targets.
+<b> Target Identification for Hate Speech in Devanagari Script Language:</b> The goal of this subtask is to identify the targets of hate speech in a given hateful text. The text is annotated for "individual", "organization", and "community" targets.
 
 
 ## Participation ##
