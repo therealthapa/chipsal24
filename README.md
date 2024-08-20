@@ -47,32 +47,35 @@ The results are only accepted in codalab. The submission will be evaluated with 
 The script takes one prediction file as the input. Your submission file must be a JSON file which is then zipped. We will only take the first file in the zip folder, so do not zip multiple files together. 
 
 
-For subtask A, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and the non-hate label is given as "0".
+For subtask A, make sure that your 'Nepali' label is given as '0', 'Marathi' label is given as '1', 'Sanskrit' label is given as '2', 'Bhojpuri' label is given as '3', and 'Hindi' label is given as '4'.
+
 
 <b>IMPORTANT:</b> The index in JSON should be in ascending order.
 ```python
-{"index": 15636, "prediction": 0}
-{"index": 16006, "prediction": 1}
-{"index": 19818, "prediction": 0}
+{"index": 10017, "prediction": 0}
+{"index": 27943, "prediction": 4}
+{"index": 38870, "prediction": 2}
+{"index": 54601, "prediction": 3}
+{"index": 69131, "prediction": 1}
 ```
 
-Similarly, for subtask B, the final prediction submissions should be like the following. Make sure that your individual, organization, and community labels are given as "1", "2", and "3" respectively.
+Similarly, for subtask B, the final prediction submissions should be like the following. Make sure that your hate label is given as "1" and non-hate label is given as "0".
 
 <b>IMPORTANT:</b> The index in JSON should be in ascending order.
 ```python
-{"index": 13943, "prediction": 1}
-{"index": 15708, "prediction": 3}
-{"index": 16692, "prediction": 2}
+{"index": 10001, "prediction": 0}
+{"index": 10068, "prediction": 1}
+{"index": 10542, "prediction": 0}
 ```
 
 
-Similarly, for the subtask C, the final prediction submissions should be like the following. Make sure that your support, oppose, and neutral labels are given as "1", "2", and "3" respectively.
+Similarly, for the subtask C, the final prediction submissions should be like the following. Make sure that your individual, organization, and community labels are given as "0", "1", and "2" respectively.
 
 <b>IMPORTANT:</b> The index in JSON should be in ascending order.
 ```python
-{"index": 10433, "prediction": 1}
-{"index": 18276, "prediction": 3}
-{"index": 20346, "prediction": 2}
+{"index": 50001, "prediction": 0}
+{"index": 50010, "prediction": 1}
+{"index": 50074, "prediction": 2}
 ```
 
 ## Publication ##
