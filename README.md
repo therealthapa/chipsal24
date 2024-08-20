@@ -80,7 +80,7 @@ Similarly, for the subtask C, the final prediction submissions should be like th
 ```
 
 ## Publication ##
-Participants in the Shared Task are expected to submit a paper to the workshop. Submitting a paper is not mandatory for participating in the Shared Task. Papers must follow the COLING 2024 workshop submission instructions for short papers and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. Authors of accepted papers will be informed about the evaluation results of their systems prior to the paper submission deadline (see the important dates). All the accepted papers will be published in ACL Anthology.
+Participants in the Shared Task are expected to submit a paper to the workshop. Submitting a paper is not mandatory for participating in the Shared Task. Papers must follow the COLING 2025 workshop submission instructions for short papers and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. Authors of accepted papers will be informed about the evaluation results of their systems prior to the paper submission deadline (see the important dates). All the accepted papers will be published in ACL Anthology.
 
 ## Invitation for Special Issue ##
 Top-performing teams and best models will be invited for a special issue in journals (T.B.D.).
