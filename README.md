@@ -19,9 +19,9 @@ In order to participate in the competition, please Join our codalab competition 
 
 | SubTask | Link |
 |----------|----------|
-| SubTask-A | [here](https://drive.google.com/file/d/1bjqQ7CHIGZpTB0aDinkry5sfCAUCMyx_/view?usp=sharing) |
-| SubTask-B | [here](https://drive.google.com/file/d/16eaYd4ks4zyIIOHM91edZndrt9ogGBsu/view?usp=sharing) |
-| SubTask-C | [here](https://drive.google.com/file/d/16gdvDM3jTIaym_oe79Di15ByCUwQMXOm/view?usp=sharing) |
+| SubTask-A | [here](https://drive.google.com/drive/folders/1_NPmsIAvHyc4qKfy-HHD7bXV8nVtACD0) |
+| SubTask-B | [here](https://drive.google.com/drive/folders/1W9pmZZ80QUYDviYT2bUQ9_31107T6zi_) |
+| SubTask-C | [here](https://drive.google.com/drive/folders/16MHP1NkxxL0StraMrMlI0-vnoNwufKmx) |
 
 **Eval Data:**
 
