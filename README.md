@@ -28,7 +28,7 @@ In order to participate in the competition, please Join our codalab competition 
 
 | SubTask | Link (index-tweet/text)| Link (index-label)|
 |----------|----------|----------|
-| SubTask-A | [here](https://drive.google.com/file/d/1n8ZR_Vly-XJvjLzitfMZn-1lqV4ABMcj/view?usp=sharing) | [here](https://drive.google.com/file/d/1-PCwvIVgrau1U5Wy5edgJ0uyD2Ews-Y-/view?usp=sharing) | 
+| SubTask-A | [here](https://drive.google.com/file/d/1wmivix0utKHmq6d6ICvpRBTo1pebV3yI/view?usp=drive_link) | [here](https://drive.google.com/file/d/1IicURjnKv8IRvcB99VmSBUIO7SzDfwSu/view?usp=sharing) | 
 | SubTask-B | [here](https://drive.google.com/file/d/1ICLWQqEFNkH7cj8YpoRi8sl5h-oWsO71/view?usp=sharing) |[here](https://drive.google.com/file/d/1apPJPZnZTke9PJi7z1NvkJKaxn70bCYT/view?usp=sharing) |
 | SubTask-C | [here](https://drive.google.com/file/d/1-2TjS6xPfjWj9YaJGSf-JXXXfNz-2pNT/view?usp=sharing) | [here](https://drive.google.com/file/d/1-1k1yHOGP7Wij1mUG2iKaSTN8i1WUgPz/view?usp=sharing) |
 
