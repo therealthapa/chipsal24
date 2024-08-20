@@ -111,6 +111,7 @@ Top-performing teams and best models will be invited for a special issue in jour
 <li> Kritesh Rauniyar (Delhi Technological University, India) </li>
 <li> Farhan Ahmad Jafri (Jamia Millia Islamia, India) </li>
 <li> Surabhi Adhikari (Columbia University, USA) </li>
+<li> Kengatharaiyer Sarveswaran (University of Jaffna, Sri Lanka) </li>
 <li> Bal Krishna Bal (Kathmandu University, Nepal) </li>
 <li> Usman Naseem (James Cook University, Australia) </li>
 </ul>
