@@ -21,7 +21,7 @@ In order to participate in the competition, please Join our codalab competition 
 |----------|----------|
 | SubTask-A | [here](https://drive.google.com/file/d/1YAo40VKJlF2dD1xlPsWDZ4uqANSh1lrx/view?usp=drive_link) |
 | SubTask-B | [here](https://drive.google.com/file/d/1stCXIF8yJkywi0VDV9iBMwLPVuG5MQy2/view?usp=drive_link) |
-| SubTask-C | [here](https://drive.google.com/file/d/1W0Zur1uNliaoSbPiYM4AH3Ri4689MljJ/view?usp=drive_link) |
+| SubTask-C | [here](https://drive.google.com/file/d/166k7N9KV6jEDvvAr9iLTwrWyfdEcAs5p/view?usp=sharing) |
 
 **Eval Data:**
 
