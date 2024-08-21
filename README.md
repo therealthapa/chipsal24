@@ -102,7 +102,7 @@ Top-performing teams and best models will be invited for a special issue in jour
 
 <li>Camera ready: December 13, 2024 </li>
 
-<li>CHIPSAL Workshop: January 19, 2024 </li>
+<li>CHIPSAL Workshop: January 19, 2025 </li>
 </ul>
 
 ## Organizers ##
