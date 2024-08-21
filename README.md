@@ -113,7 +113,7 @@ Top-performing teams and best models will be invited for a special issue in jour
 <li> Surabhi Adhikari (Columbia University, USA) </li>
 <li> Kengatharaiyer Sarveswaran (University of Jaffna, Sri Lanka) </li>
 <li> Bal Krishna Bal (Kathmandu University, Nepal) </li>
-<li> Usman Naseem (James Cook University, Australia) </li>
+<li> Usman Naseem (Macquarie University, Australia) </li>
 </ul>
 
 ## Contact ##
