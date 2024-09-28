@@ -36,7 +36,12 @@ In order to participate in the competition, please Join our codalab competition 
 
 **Test Data:**
 
-Will be provided after testing phase starts.
+| SubTask | Link (index-tweet/text)|
+|----------|----------|
+| SubTask-A | [here](https://drive.google.com/file/d/1m9q9iC4y7kAkOHxX7QuXNwNTlcnzX77p/view?usp=sharing) |
+| SubTask-B | [here](https://drive.google.com/file/d/14uwPoYxL-DXiYPumMA_Qf5GpXNU29ggg/view?usp=sharing) |
+| SubTask-C | [here](https://drive.google.com/file/d/1-8s5pEl6nga3qlEIVEWCJTPGFcNz2V5m/view?usp=sharing) |
+
 
 ## Dataset ## 
 All the text has a unique identifier called "index". The labels for training data are given along with the dataset. For evaluation and testing, the submission format is mentioned below.
