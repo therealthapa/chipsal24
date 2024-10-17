@@ -99,7 +99,7 @@ Top-performing teams and best models will be invited for a special issue in jour
 
 <li>Testing Phase start: September 27, 2024 </li>
 
-<li>Test end: October 17, 2024 </li>
+<li>Test end: October 27, 2024 </li>
 
 <li>System Description Paper submissions due: November 3, 2024 </li>
 
