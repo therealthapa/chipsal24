@@ -122,7 +122,7 @@ Top-performing teams and best models will be invited for a special issue in jour
 </ul>
 
 ## Contact ##
-If there are any questions related to the competition, please contact rauniyark11@gmail.com
+If there are any questions related to the competition, please contact surenthapa5803@gmail.com
 
 ## References ##
 Will be provided later.
